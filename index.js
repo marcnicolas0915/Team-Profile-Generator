@@ -13,7 +13,7 @@ const path = require('path');
 const fs = require('fs');
 
 // import page-template.js from subfoler src with require and assign it to a variable to be called later to render html
-const render = require('./lib/generateHTML');
+const render = require('./lib/generate');
 
 // create variable to hold the path to dist subfolder using path lib resolve method
 const DIR_OUTPUT = path.resolve(__dirname, 'dist');
