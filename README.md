@@ -26,6 +26,7 @@ Finishing the prompts will make a new team.html file which will be created in th
 ## Contributors
 
 [Marc Nicolas](https://github.com/marcnicolas0915)
+
 [Jonathan Plaras](https://github.com/pljon)
 
 ## Sample
@@ -34,4 +35,7 @@ THE SAMPLE PAGE DISPLAYED IN THE VIDEO IS IN THE `/dist` FOLDER
 
 ## Demo
 
-![video-sample](./assets/Untitled_ Jan 30, 2023 12_27 AM.gif)
+[Untitled_ Jan 30, 2023 12_27 AM.webm](https://user-images.githubusercontent.com/117967802/215396836-94dac555-6321-4b6f-a6d6-40dea7f0f5c2.webm)
+
+
+
